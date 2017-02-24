@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_d3d8bd8dfe041a1c6023aaef948966465eedf293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_b447f2797c4fad40e809b44de822c4b282d1fa63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_760141a97630f446c6762e9f903dcd33a52c9956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\libs\eneter-messaging-android-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68710e7a5fcd0637ab8904a9e8b2efe3776067ce">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\eneter-messaging-android-7.0.1_8ad3e6240e9de255ce3505486be52cab9e6e1785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_ac3d7fee24f07f85a448c048da8b5f079d848d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_c941269fae50c65ed3406856811d43c157d37c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bf0b8804f4070aca031e2a1d75de373f2582dfdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8151180b94a0628b5eacbc4f6930a6629a55d549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_f04e43a721af0a7265eee329c996e0c68ce1c8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_6cd2f9aa8ffeebb4ed95b2aa91a0325f0907f3ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ad4b2a784d3a947c7fc5da8e11148f769dc406a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_b3a7731758f88108a403ac458cc361850f89e7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_7f591b91ec697c4a98bd7ec2eab25931aa9e5f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0ac381222d8fc309ca1526a6884118ba3f121b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_6e713976dee12965fb96d0a08e7f08460c3525ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\sohan\Documents\FISSRA_01\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d9ae754ac7280431a4c093a5213dd9a92ebe8e76.jar" />
+    </item>
+
+</items>
